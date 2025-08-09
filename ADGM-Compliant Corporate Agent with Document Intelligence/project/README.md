@@ -34,7 +34,11 @@ The ADGM Corporate Agent is an intelligent document analysis system that combine
 - **Confidence Scoring**: Provide reliability scores for analysis results
 
 ### Screenshots
-<img width="1919" height="948" alt="Screenshot 2025-08-09 090725" src="https://github.com/user-attachments/assets/c1af5a1c-97d4-4bd2-8fcf-58aa9eff0fb8" />
+<img width="1919" height="950" alt="Screenshot 2025-08-09 090551" src="https://github.com/user-attachments/assets/e81102ef-5031-496d-afd3-1ad923370be9" />
+<img width="1919" height="887" alt="Screenshot 2025-08-09 090647" src="https://github.com/user-attachments/assets/61813dc6-61be-4a05-a5a9-bd2729893b14" />
+<img width="1919" height="948" alt="Screenshot 2025-08-09 090725" src="https://github.com/user-attachments/assets/a22a5029-d8b8-47d5-be72-5fcadd032b8a" />
+<img width="1919" height="950" alt="Screenshot 2025-08-09 090745" src="https://github.com/user-attachments/assets/727a84d8-2937-4592-ac4d-8728caa46430" />
+<img width="1919" height="948" alt="Screenshot 2025-08-09 090807" src="https://github.com/user-attachments/assets/fa5b9b85-399c-48b4-8335-32be73aada5a" />
 
 
 ## 🚀 Getting Started
