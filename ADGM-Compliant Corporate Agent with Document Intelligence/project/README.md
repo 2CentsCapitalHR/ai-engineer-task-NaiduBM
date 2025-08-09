@@ -215,14 +215,3 @@ Contributions are welcome! Please read our contributing guidelines and submit pu
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Support
-
-For technical support or questions about ADGM compliance, please:
-1. Check the documentation and FAQ
-2. Review official ADGM resources
-3. Consult with qualified legal professionals
-4. Submit issues through the project repository
-
----
-
-**Built with ❤️ for the ADGM business community**
