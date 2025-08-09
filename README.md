@@ -39,6 +39,15 @@ The ADGM Corporate Agent is an intelligent document analysis system that combine
 <img width="1919" height="950" alt="Screenshot 2025-08-09 090745" src="https://github.com/user-attachments/assets/727a84d8-2937-4592-ac4d-8728caa46430" />
 <img width="1919" height="948" alt="Screenshot 2025-08-09 090807" src="https://github.com/user-attachments/assets/fa5b9b85-399c-48b4-8335-32be73aada5a" />
 
+###  Code Screenshots
+Requirements:
+<img width="1919" height="1078" alt="Screenshot 2025-08-09 174824" src="https://github.com/user-attachments/assets/349a7380-0876-451c-a338-37d779a40c7d" />
+
+Code Screenshots:
+<img width="1702" height="1015" alt="Screenshot 2025-08-09 174904" src="https://github.com/user-attachments/assets/f5299c3b-2911-460b-a6ac-e4ff7d7a9ac2" />
+<img width="1571" height="1010" alt="Screenshot 2025-08-09 174922" src="https://github.com/user-attachments/assets/6a1b423f-4441-42d0-b253-ebe202bb9054" />
+Data sets:
+<img width="893" height="192" alt="Screenshot 2025-08-09 174846" src="https://github.com/user-attachments/assets/21b4d076-c2d2-4509-a183-f4101920c67c" />
 
 ## 🚀 Getting Started
 
