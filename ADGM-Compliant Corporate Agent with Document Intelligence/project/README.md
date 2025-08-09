@@ -1,6 +1,5 @@
 # ADGM Corporate Agent - AI-Powered Legal Document Intelligence
 
-A comprehensive AI-powered legal assistant for reviewing, validating, and preparing documentation for business incorporation and compliance within the Abu Dhabi Global Market (ADGM) jurisdiction.
 
 ## 🏛️ Overview
 
