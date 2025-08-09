@@ -32,7 +32,7 @@ The ADGM Corporate Agent is an intelligent document analysis system that combine
 - **Natural Language Processing**: Advanced text analysis and legal interpretation
 - **Confidence Scoring**: Provide reliability scores for analysis results
 
-### Screenshots
+### 📷  Screenshots
 <img width="1919" height="950" alt="Screenshot 2025-08-09 090551" src="https://github.com/user-attachments/assets/e81102ef-5031-496d-afd3-1ad923370be9" />
 <img width="1919" height="887" alt="Screenshot 2025-08-09 090647" src="https://github.com/user-attachments/assets/61813dc6-61be-4a05-a5a9-bd2729893b14" />
 <img width="1919" height="948" alt="Screenshot 2025-08-09 090725" src="https://github.com/user-attachments/assets/a22a5029-d8b8-47d5-be72-5fcadd032b8a" />
